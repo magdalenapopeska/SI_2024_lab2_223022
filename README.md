@@ -1,6 +1,7 @@
 Втора лабараториска вежба по Софтверско инженерство
 Магдалена Попеска, 223022
 2. Control Flow Graph
+
 ![Screenshot (956)](https://github.com/magdalenapopeska/SI_2024_lab2_223022/assets/165606684/26871448-5704-4560-8cfa-a3db8cac91f3)
 
 3. Цикломатска комплекснот
